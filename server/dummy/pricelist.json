@@ -1,0 +1,62 @@
+[
+    {
+        "price": 90000,
+        "IdService": 1,
+        "IdMotorcycle": 1
+    },
+    {
+        "price": 120000,
+        "IdService": 2,
+        "IdMotorcycle": 1
+    },
+    {
+        "price": 234000,
+        "IdService": 3,
+        "IdMotorcycle": 1
+    },
+    {
+        "price": 120000,
+        "IdService": 1,
+        "IdMotorcycle": 2
+    },
+    {
+        "price": 165000,
+        "IdService": 2,
+        "IdMotorcycle": 2
+    },
+    {
+        "price": 320000,
+        "IdService": 3,
+        "IdMotorcycle": 2
+    },
+    {
+        "price": 155000,
+        "IdService": 1,
+        "IdMotorcycle": 3
+    },
+    {
+        "price": 189000,
+        "IdService": 2,
+        "IdMotorcycle": 3
+    },
+    {
+        "price": 543000,
+        "IdService": 3,
+        "IdMotorcycle": 3
+    },
+    {
+        "price": 98000,
+        "IdService": 1,
+        "IdMotorcycle": 4
+    },
+    {
+        "price": 187000,
+        "IdService": 2,
+        "IdMotorcycle": 4
+    },
+    {
+        "price": 378000,
+        "IdService": 3,
+        "IdMotorcycle": 4
+    }
+]
